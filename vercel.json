@@ -7,7 +7,7 @@
     }
   ],
   "env": {
-    "ACCESS_TOKEN": "@access-token"
+    "ACCESS_TOKEN": "@access_token"
   },
   "routes": [
     {

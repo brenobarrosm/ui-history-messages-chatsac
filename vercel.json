@@ -6,9 +6,6 @@
       "use": "@vercel/python"
     }
   ],
-  "env": {
-    "ACCESS_TOKEN": "@access_token"
-  },
   "routes": [
     {
       "src": "/(.*)",
